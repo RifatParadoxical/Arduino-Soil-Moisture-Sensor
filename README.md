@@ -16,6 +16,10 @@ A simple project to measure soil moisture using an Arduino and a soil moisture s
 
 ![Circuit Schema](./images/schema.png)
 
+## PCB Design
+
+![PCB](./images/pcb.png)
+
 ## Components Required
 
 - Arduino Uno (or compatible)
